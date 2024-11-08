@@ -1,6 +1,6 @@
-Here’s a `README.md` file for your Android repository:
 
----
+![Screenshot 2024-11-05 at 22 29 04](https://github.com/user-attachments/assets/82735163-b9a1-4225-8827-4ffe52911be2)
+
 
 # Task Manager App
 
