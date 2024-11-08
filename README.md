@@ -33,6 +33,6 @@ Credits to the designer [Keyur Dasani](https://www.figma.com/@keyurdasani) for s
 
 ## Collaborate with SocialCode
 
-Let's collaborate to make this task manager app the best it can be! Join us on SocialCode to learn, share your skills, and engage in pair programming to improve features and functionality together.
+Let's code together to make this task manager app the best it can be! Join us on SocialCode to learn, share your skills, and engage in pair programming to improve features and functionality together.
 
 👉 [Check out the project on SocialCode](https://socialcode.club/project-overview/612b345b-5c32-406e-99e4-04f68c733732)
